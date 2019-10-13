@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Moon Mobile</title>
+    <link href="https://RizwanSial860.github.io/MoonMobileSite/feed.xml" rel="self" />
+    <link href="https://RizwanSial860.github.io/MoonMobileSite" />
+    <updated>2019-10-13T10:44:13+05:00</updated>
+    <author>
+        <name>Rizwan Sial</name>
+    </author>
+    <id>https://RizwanSial860.github.io/MoonMobileSite</id>
+
+    <entry>
+        <title>First Post</title>
+        <author>
+            <name>Rizwan Sial</name>
+        </author>
+        <link href="https://RizwanSial860.github.io/MoonMobileSite/first-post.html"/>
+        <id>https://RizwanSial860.github.io/MoonMobileSite/first-post.html</id>
+
+        <updated>2019-10-13T10:40:28+05:00</updated>
+            <summary>
+                <![CDATA[
+                    This is our first post, lol!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                This is our first post, lol!
+            ]]>
+        </content>
+    </entry>
+</feed>

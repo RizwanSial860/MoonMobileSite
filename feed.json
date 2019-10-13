@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Moon Mobile",
+    "description": "",
+    "home_page_url": "https://RizwanSial860.github.io/MoonMobileSite",
+    "feed_url": "https://RizwanSial860.github.io/MoonMobileSite/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Rizwan Sial"
+    },
+    "items": [
+        {
+            "id": "https://RizwanSial860.github.io/MoonMobileSite/first-post.html",
+            "url": "https://RizwanSial860.github.io/MoonMobileSite/first-post.html",
+            "title": "First Post",
+            "summary": "This is our first post, lol!",
+            "content_html": "This is our first post, lol!",
+            "author": {
+                "name": "Rizwan Sial"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-10-13T10:40:28+05:00",
+            "date_modified": "2019-10-13T10:40:28+05:00"
+        }
+    ]
+}
